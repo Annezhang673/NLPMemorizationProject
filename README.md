@@ -15,3 +15,9 @@
 - Tuesday: Dataset generation part done
 - Wednesday: Train the model
 - Sunday: Do everything
+
+## Yo look at this
+- https://www.kaggle.com/datasets/hagari/disease-and-their-symptoms
+- https://huggingface.co/blog/how-to-generate
+- https://huggingface.co/spaces/evaluate-metric/bleu
+- https://huggingface.co/spaces/evaluate-metric/rouge
